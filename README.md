@@ -33,4 +33,4 @@ Environment Configurations
 To run the scraper
 1) open cmd
 2) open the folder where the project is saved in cmd
-3) enter the command "python scrapy.py"
+3) enter the command "python scraping.py"
