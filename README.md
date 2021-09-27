@@ -2,12 +2,12 @@
 
 Here's an outline of the steps we'll follow:
 
-Download the webpage using requests
-Parse the HTML source code using beautiful soup
-Extract the required information and URLs from page
-Compile extracted information into Python lists and dictionaries
-Extract and combine data from multiple pages
-Save the extracted information to a CSV file.
+1) Download the webpage using requests
+2) Parse the HTML source code using beautiful soup
+3) Extract the required information and URLs from page
+4) Compile extracted information into Python lists and dictionaries
+5) Extract and combine data from multiple pages
+6) Save the extracted information to a CSV file.
 
 Steps to install BeautifulSoup
 1) Open cmd 
